@@ -1,3 +1,2 @@
 This is info about mars.
 This is new info. 
-Added info. 
